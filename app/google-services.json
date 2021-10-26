@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44128383932",
+    "project_id": "mental-fitness-fee1e",
+    "storage_bucket": "mental-fitness-fee1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44128383932:android:7f454bf9c078d60660f1b9",
+        "android_client_info": {
+          "package_name": "com.pesh.mentalfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44128383932-9feap9dktq8r9jt65bv56lqmt7o21bh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pesh.mentalfitness",
+            "certificate_hash": "8340ed6d29265c6f08004f3c4a161733a398553f"
+          }
+        },
+        {
+          "client_id": "44128383932-0fqg3ng65i8jh6p5ph7gueh7mrco6e5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnlN_EN3C415Hd4nnL0y6Fw4crNNNcxWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44128383932-0fqg3ng65i8jh6p5ph7gueh7mrco6e5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
